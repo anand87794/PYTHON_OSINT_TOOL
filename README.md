@@ -82,8 +82,8 @@
 ### Clone the Repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/osint-tool.git
-cd osint-tool
+git clone https://github.com/anand87794/PYTHON_OSINT_TOOL.git
+cd PYTHON_OSINT_TOOL
 ```
 
 ### Install Dependencies
